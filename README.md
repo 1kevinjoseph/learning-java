@@ -1,4 +1,4 @@
-# learning-java
+# Learning-javascript
 
 problems
 
@@ -6,7 +6,7 @@ problems
   -add even numbers betwwen 1 and 100
   -detect the largest number in any given array
 
-# pushing to github
+# Pushing to github
 
 1. git status
 2. git add .
