@@ -88,13 +88,12 @@ cond("Thursday");
  * 4. algorithms
  *
  * 1.operators
- * 
- * 2.ADD ELEMENTS IN AN ARRAY
+ *
+ * 2.ADD NUMBERS IN AN ARRAY
  * 3.ADD EVEN NUMBERS BETWEEN 1 AND 100
  * 4.DETECT THE LARGEST NUMBER IN ANY GIVEN ARRAY
  *
- * 
+ *
  *  Referenc:
  * W3SCHOOLS
  */
-
