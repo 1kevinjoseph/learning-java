@@ -1,2 +1,6 @@
 Github
 download Git
+
+download repository
+solve solutions 
+push changes to github
