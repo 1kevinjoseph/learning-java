@@ -1,17 +1,17 @@
-## Learning-javascript
+# Learning-javascript
 
-problems
+## Overview
 
+This repository involves javascript codes which expose the programmer to algorithms and data structures
 
-
-# Configuring global user
+## Configuring global user
 
 1. git config user.mail
 2. git config user.mail "youremail@nn.com"
 3. git config user.name
 4. git config user.name "username"
 
-# Pushing to github
+## Pushing to github
 
 1. git status
 2. git add .
