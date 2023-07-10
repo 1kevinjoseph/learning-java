@@ -1,7 +1,12 @@
-let temp=20;
-if (temp>=15 && temp<=50) {
-    console.log("its hot")
-    
+/**Check temperature */
+function tempCheck(temp) {
+  if (temp <= 15) {
+    console.log("it is cold");
+  } else if (temp <= 25) {
+    console.log("it is room temperature");
+  } else {
+    console.log("it is hot");
+  }
 }
-else
-console.log("its cold")
+
+// tempCheck(20);

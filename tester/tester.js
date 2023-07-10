@@ -1,12 +1,14 @@
 // if else condition
-let a = 10; let b = 15;
-if(a>b)
-console.log("a>b")
-else
-console.log("b>a")
+let a = 10;
+let b = 15;
+if (a > b) {
+  console.log("a>b");
+} else {
+  console.log("b>a");
+}
 // for loop
-for(i=0;i<=10;i++){
-    console.log("the number is",i)
+for (i = 0; i <= 10; i++) {
+  console.log("the number is", i);
 }
 
 // while loop
@@ -16,3 +18,7 @@ for(i=0;i<=10;i++){
 // }
 // console.log("hello",username)
 
+if (a < b) console.log("a>b");
+else console.log("b>a");
+
+a < b ? console.log("a>b") : console.log("b>a");
