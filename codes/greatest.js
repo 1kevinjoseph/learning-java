@@ -1,13 +1,19 @@
 /**Method to find the greatest number in an array */
-let arr = [4, 56, 3, 44, 35, 74];
+let arr = [4, 56, 3, 99, 35, 74];
+
 function checkGreatest(arr) {
+  let greatest = arr[0];
+
   //write your code here
-  
   for (i = 0; i < arr.length; i++) {
-    greatest = arr[0] > arr[i];
+    //if the next element is greater make it the greatest
+    if (arr[i + 1] > greatest) {
+      greatest = arr[i + 1];
+    }
   }
   return greatest;
 }
-checkGreatest(arr);
+
+const greatest = checkGreatest(arr);
 
 console.log(greatest);
