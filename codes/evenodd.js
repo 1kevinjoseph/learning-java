@@ -10,10 +10,12 @@ function splitArr(arr) {
   // looping statement
   for (i = 0; i < arr.length; i++)
     //condition to check if number is even or odd
-    if (number % 2 == 0) {
+    if (number % 2 === 0) {
       number = even.push;
+      arr = arr.concat(even);
     } else {
       number = odd.push;
+      arr = arr.concat(odd);
     }
   return arr;
 }
