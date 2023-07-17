@@ -13,18 +13,16 @@ function splitArr(arr) {
   for (i = 0; i < arr.length; i++) {
     // looping statement
 
-    if (number / 2 == 0) {
+    if (arr[i + 1] % 2 === 0) {
       //condition to check if number is even or odd
 
       number = even.push;
-      number = arr[0 + 1];
+      number = arr[i + 1];
     } else {
       number = odd.push;
-      number = arr[0 + 1];
+      number = arr[i + 1];
     }
   }
-  console.log(even);
-  console.log(odd);
 
   return arr;
 }
