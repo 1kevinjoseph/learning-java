@@ -13,7 +13,7 @@ function checkGreatest(arr) {
   }
   return greatest;
 }
-
+checkGreatest(arr)
 const greatest = checkGreatest(arr);
 
 console.log(greatest);
