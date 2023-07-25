@@ -20,7 +20,7 @@ function splitArr(arr) {
   combArr.push(oddArr);
   return combArr;
 }
-
+//check if number is even
 function isNumEven(num) {
   return num % 2 == 0;
 }
