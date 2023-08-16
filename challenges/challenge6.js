@@ -3,6 +3,4 @@
 function getFirstValue(arr) {
   return arr[0];
 }
-let arr = [3, 5, 4, 10];
-let f = getFirstValue(arr);
-console.log(f);
+console.log(getFirstValue([3, 5, 4, 10]));

@@ -4,7 +4,8 @@
 
 function nameString(name) {
   const b = "Edabit";
-  const result = name + b;
+  // const result = name + b;
+  const result = `${name}Edabit`;
   return result;
 }
 let x = nameString("yooo");
