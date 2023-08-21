@@ -8,3 +8,4 @@ function nextEdge(side1, side2) {
 }
 let next = nextEdge(8, 10);
 console.log(next);
+// solved!!!

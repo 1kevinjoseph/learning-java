@@ -6,3 +6,4 @@ function convert(minutes) {
 }
 let val = convert(5);
 console.log(val);
+// solved!!!

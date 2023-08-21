@@ -10,3 +10,4 @@ function nameString(name) {
 }
 let x = nameString("yooo");
 console.log(x);
+// solved!!!

@@ -6,3 +6,4 @@ function area(base, height) {
 }
 let ans = area(8, 10);
 console.log("area is" + ans);
+// solved!!!

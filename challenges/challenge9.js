@@ -17,3 +17,4 @@ function lessThanOrEqualToZero(num) {
   }
 }
 console.log(lessThanOrEqualToZero(8));
+// solved!!!

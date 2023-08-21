@@ -8,3 +8,4 @@ function arrSum(arr) {
       return sum;
 }
 console.log(arrSum(arr))
+// solved!!!

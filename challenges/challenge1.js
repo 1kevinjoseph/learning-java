@@ -6,3 +6,4 @@ function addition(x, y) {
 
 let result = addition(2, 3);
 console.log(result);
+// solved!!!
