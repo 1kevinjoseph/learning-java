@@ -4,4 +4,6 @@ For example, if the input is 4 then your function should return 10 because 1 + 2
 example
 addUp(4) ➞ 10/*/
 
-function addUp(num) {}
+function addUp(num) {
+    
+}
