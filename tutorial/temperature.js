@@ -9,4 +9,4 @@ function tempCheck(temp) {
   }
 }
 
-// tempCheck(20);
+tempCheck(20);
