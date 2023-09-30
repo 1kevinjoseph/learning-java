@@ -1,3 +1,14 @@
+// functions
+function add(x, y) {
+  return x + y;
+}
+// arrow functions
+const add2 = (x, y) => {
+  return x + y;
+};
+
+add();
+//simple function to check temperature
 /**Check temperature */
 function tempCheck(temp) {
   if (temp <= 15) {

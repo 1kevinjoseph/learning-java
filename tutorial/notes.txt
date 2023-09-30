@@ -1,9 +1,0 @@
-Github
-download Git
-
-download repository
-solve solutions 
-push changes to github
-
-Use the link below to revise on coding challenges
-https://codeguppy.com/blog/javascript-coding-challenges-for-beginners/index.html
